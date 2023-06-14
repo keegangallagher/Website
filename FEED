@@ -1,0 +1,22 @@
+<!--
+Programmer: Keegan Gallagher
+Program: Website "feed"
+Date: 6.12.23
+-->
+<!doctype html>
+    <div class="header">
+      <title>FEED</title>
+    <body> 
+      <h1>Feed</h1>
+
+      <p>"Wherever there is a Human being, there is an OPPORTUNITY for a kindness."</p>
+
+      <p>-Senca</p>
+        <a href="FEED.html">Feed</a>
+        <a href="">Search</a>
+        <a href="">Profile</a>
+        <a href="">Post</a>
+
+      </body>
+      </div>
+</html>
