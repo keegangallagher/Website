@@ -1,13 +1,13 @@
 <!--
 Programmer: Keegan Gallagher
-Program: Website "feed"
+Program: Website "Search"
 Date: 6.12.23
 -->
 <!doctype html>
     <div class="header">
-      <title>FEED</title>
+      <title>Search</title>
     <body> 
-      <h1>Feed</h1>
+      <h1>Search</h1>
 
       <p>"Wherever there is a Human being, there is an OPPORTUNITY for a kindness."</p>
 
